@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MixAndMake</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mix_and_make">Mix and Make</string>
+    <string name="equals">=</string>
+    <string name="plus">+</string>
+
+    <string name="display_message">You made %1$s!</string>
+    <string name="unknown">Unknown Recipe</string>
+    <string name="add_recipes">Add Recipes</string>
+    <string name="egg_butter_milk_omelette">egg + butter + milk = omelette</string>
+    <string name="egg_flour_milk_pancake">egg + flour + milk = pancake</string>
+    <string name="milk_milk_flour_crepes">milk + milk + flour = crepes</string>
+    <string name="mix_everything_cake">mix everything = cake</string>
+    <string name="butter_sugar_icing">butter + sugar = icing</string>
+    <string name="egg_egg_scrambled_egg">egg + egg = scrambled egg</string>
+    <string name="recipes">Recipes:</string>
+    <string name="back"><![CDATA[<]]></string>
+</resources>
